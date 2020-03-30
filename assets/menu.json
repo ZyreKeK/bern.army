@@ -27,9 +27,21 @@
     },
     "// Freitag",
     {
-      "tagesteller": "Hackbraten mit Rotweinsauce, Blumenkohl und Goldzöpfli",
-      "pasta-hit": "Penne alla nonna (Speck, Schinken, Tomaten und Peperoni an Rahmsauce)\noder Tomatensauce",
-      "nachtessen": "Conchiglie con polpette al sugo (Tomatensauce mit Rindfleischkugeln)"
+      "tagesteller": "Poulet Ragout \"Havanna-Style\" an Kokossauce mit Koriander, Kräutertomate und Pilav-Reis\nDessert",
+      "pasta-hit": "Cellentani cinque pi (Tomatenrahmsauce mit Pfeffer, Sbrinz und Petersilie)",
+      "nachtessen": "Cannelloni \"Mozzarella pomodoro\" an Zucchettisauce mit Cantadou"
+    },
+    "// Samstag",
+    {
+      "tagesteller": "Poulet Ragout \"Havanna-Style\" an Kokossauce mit Koriander, Kräutertomate und Pilav-Reis\nDessert",
+      "pasta-hit": "Cellentani cinque pi (Tomatenrahmsauce mit Pfeffer, Sbrinz und Petersilie)",
+      "nachtessen": "Cannelloni \"Mozzarella pomodoro\" an Zucchettisauce mit Cantadou"
+    },
+    "// Sonntag",
+    {
+      "tagesteller": "Poulet Ragout \"Havanna-Style\" an Kokossauce mit Koriander, Kräutertomate und Pilav-Reis\nDessert",
+      "pasta-hit": "Cellentani cinque pi (Tomatenrahmsauce mit Pfeffer, Sbrinz und Petersilie)",
+      "nachtessen": "Cannelloni \"Mozzarella pomodoro\" an Zucchettisauce mit Cantadou"
     }
   ]
 }

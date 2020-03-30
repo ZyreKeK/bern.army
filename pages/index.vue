@@ -1,4 +1,3 @@
-
 <template>
   <div class="container">
     <div class="row">
@@ -47,31 +46,26 @@
                     07:00 - 11:30 Uhr
                   </td>
                 </tr>
-		<tr>
-                  <th scope="row">
-                     
-                  </th>
+                <tr>
+                  <th scope="row" />
                   <td class="text-right">
                     12:30 - 18:30 Uhr
                   </td>
                 </tr>
-		<tr>
-                  <th scope="row">                   
+
                     Dienstag
                   </th>
                   <td class="text-right">
                     07:00 - 11:30 Uhr
                   </td>
                 </tr>
-		<tr>
-                  <th scope="row">
-                     
-                  </th>
+                <tr>
+                  <th scope="row" />
                   <td class="text-right">
                     12:30 - 17:30 Uhr
                   </td>
                 </tr>
-		<tr>
+
                   <th scope="row">
                     Mittwoch
                   </th>
@@ -79,15 +73,13 @@
                     07:00 - 11:30 Uhr
                   </td>
                 </tr>
-		<tr>
-                  <th scope="row">
-                     
-                  </th>
+                <tr>
+                  <th scope="row" />
                   <td class="text-right">
                     12:30 - 18:30 Uhr
                   </td>
                 </tr>
-		<tr>
+
                   <th scope="row">
                     Donnerstag
                   </th>
@@ -95,15 +87,13 @@
                     07:00 - 11:30 Uhr
                   </td>
                 </tr>
-		<tr>
-                  <th scope="row">
-                     
-                  </th>
+                <tr>
+                  <th scope="row" />
                   <td class="text-right">
                     12:30 - 18:30 Uhr
                   </td>
                 </tr>
-		<tr>
+
                   <th scope="row">
                     Freitag
                   </th>
@@ -111,10 +101,8 @@
                     07:00 - 11:30 Uhr
                   </td>
                 </tr>
-		<tr>
-                  <th scope="row">
-                     
-                  </th>
+                <tr>
+                  <th scope="row" />
                   <td class="text-right">
                     12:30 - 17:00 Uhr
                   </td>
@@ -162,15 +150,16 @@ export default {
       return ''
     },
     nextMenus() {
-      if (menu.week < moment().week()) {
+      if (menu.week < moment().isoWeek()) {
         return []
       }
 
-      const dayOfWeek = moment().day()
-      if (dayOfWeek < 1 || dayOfWeek > 5) {
-        // Sat & Sun
-        return []
-      }
+      const dayOfWeek = moment().isoWeekday()
+      // Schliesst Samstage und Sonntage aus
+      // if (dayOfWeek < 1 || dayOfWeek > 5) {
+      //   // Sat & Sun
+      //   return []
+      // }
 
       const dayMenus = menu.days.filter(function filter(x) {
         return typeof x !== 'string'
