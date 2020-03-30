@@ -53,6 +53,7 @@
                   </td>
                 </tr>
 
+                  <th scope="row">
                     Dienstag
                   </th>
                   <td class="text-right">
