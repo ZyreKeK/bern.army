@@ -1,47 +1,46 @@
 {
-  "week": 13,
+  "week": 14,
   "days": [
     "// Montag",
     {
-      "tagesteller": "Schweins-Gyros an Sauerrahmsauce mit grünen Bohnen und Brätlerkartoffeln",
-      "pasta-hit": "Penne ai funghi (Steinpilze und Zwiebeln an Tomatensauce)",
-      "nachtessen": "Bärner Hörnliauflauf mit Cervelat, Vorderschinken, Kartoffeln und Rüebli"
+      "tagesteller": "Schweinsragout an Senfbiersauce, Pfälzerkarotten und Kartoffelstock",
+      "pasta-hit": "",
+      "nachtessen": "Mediterrande Gemüselasagne mit Auberginen, Zucchetti, Peperoni und Zucchetti mit Mozzarella überbacken"
     },
     "// Dienstag",
     {
-      "tagesteller": "Paniertes Seelachsfilet (pol) mit Tartar-Sauce, Broccoliröschen und Nudeln\nDessert",
-      "pasta-hit": "Penne alfredo\n(Zwiebeln, Sbrinz und Petersilie an Rahmsauce)",
-      "nachtessen": "Paella Valencia\n(Spanisches Reisgericht mit Gemüse und Pouletoberschenkel)"
+      "tagesteller": "Überbackener Dorsch (swe) mit Bärlauch-Hollandaise, Blattspinat und Trockenreis\nDessert",
+      "pasta-hit": "",
+      "nachtessen": "Schweinsbratwurst mit Kräutersenf und Kartoffelgemüsepfanne"
     },
     "// Mittwoch",
     {
-      "tagesteller": "Rindfleischvogel mit zweifarbigen Rüebli und Kräuterkartoffelstock",
-      "pasta-hit": "Penne al tonno\n(Thunfisch, Sardellen, schwarze Oliven und Tomatensauce)",
-      "nachtessen": "Walliser Rösti mit Tomaten und Raclettekäse"
+      "tagesteller": "Pouletgeschnetzeltes mit Peperoni und Oliven an Tomatensauce, Blumenkohlgratin und Spinatnudeln",
+      "pasta-hit": "",
+      "nachtessen": "Gemüse-Variation \"Sweet and sour\" im Reisring"
     },
     "// Donnerstag",
     {
-      "tagesteller": "Poulet Cordon-Bleu, Peperonatagemüse und Weissweinrisotto\nDessert",
-      "pasta-hit": "Penne con mortadella (Mortadella, Zwiebeln und Peperoni an Pestorahmsauce)\noder Tomatensauce",
-      "nachtessen": "Tomatenstrudel mit buntem Gemüsesalat"
+      "tagesteller": "Paniertes Schweinsschnitzel, französische Erbsen und Cous Cous",
+      "pasta-hit": "",
+      "nachtessen": "Ghackets mit Hörnli und Apfelmus"
     },
     "// Freitag",
     {
-      "tagesteller": "Poulet Ragout \"Havanna-Style\" an Kokossauce mit Koriander, Kräutertomate und Pilav-Reis\nDessert",
-      "pasta-hit": "Cellentani cinque pi (Tomatenrahmsauce mit Pfeffer, Sbrinz und Petersilie)",
-      "nachtessen": "Cannelloni \"Mozzarella pomodoro\" an Zucchettisauce mit Cantadou"
-    },
+      "tagesteller": "Wiener Kalbsrahmgulasch, Karottenscheiben und Polenta\nDessert",
+      "pasta-hit": "",
+      "nachtessen": "Gebackener Käse auf Tomatencoulis mit Kartoffel-Gemüsesalat"
     "// Samstag",
     {
-      "tagesteller": "Poulet Ragout \"Havanna-Style\" an Kokossauce mit Koriander, Kräutertomate und Pilav-Reis\nDessert",
-      "pasta-hit": "Cellentani cinque pi (Tomatenrahmsauce mit Pfeffer, Sbrinz und Petersilie)",
-      "nachtessen": "Cannelloni \"Mozzarella pomodoro\" an Zucchettisauce mit Cantadou"
+      "tagesteller": "Berner Schweinsgeschnetzeltes mit Speck und Champignons, grüne Bohnen und Bäckerinnenkartoffeln",
+      "pasta-hit": "",
+      "nachtessen": "Spaghetti all'amatriciana (Zwiebeln, Knoblauch, Speck und Pfefferschoten an Tomatensauce)"
     },
     "// Sonntag",
     {
-      "tagesteller": "Poulet Ragout \"Havanna-Style\" an Kokossauce mit Koriander, Kräutertomate und Pilav-Reis\nDessert",
-      "pasta-hit": "Cellentani cinque pi (Tomatenrahmsauce mit Pfeffer, Sbrinz und Petersilie)",
-      "nachtessen": "Cannelloni \"Mozzarella pomodoro\" an Zucchettisauce mit Cantadou"
+      "tagesteller": "Pouletbrust mit Apfel-Calvadossauce\nKräutertomate und Pilav-Reis",
+      "pasta-hit": "",
+      "nachtessen": "Churer Fleischtorte mit Gemüsemischsalat"
     }
   ]
 }
