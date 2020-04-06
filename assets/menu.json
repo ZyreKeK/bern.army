@@ -1,47 +1,47 @@
 {
-  "week": 14,
+  "week": 15,
   "days": [
     "// Montag",
     {
-      "tagesteller": "Schweinsragout an Senfbiersauce, Pfälzerkarotten und Kartoffelstock",
+      "tagesteller": "Rindsgeschnetzeltes nach \"Stroganoff\", Kräuter-Kohlrabi und Goldzöpfli",
       "pasta-hit": "",
-      "nachtessen": "Mediterrande Gemüselasagne mit Auberginen, Zucchetti, Peperoni und Zucchetti mit Mozzarella überbacken"
+      "nachtessen": "Curry-Bratwurst mit Hagenbuttenketchup, und Gemüsereis"
     },
     "// Dienstag",
     {
-      "tagesteller": "Überbackener Dorsch (swe) mit Bärlauch-Hollandaise, Blattspinat und Trockenreis\nDessert",
+      "tagesteller": "Schweinsragout mit Curry und Äpfeln, Kräutertomate und Brätlerkartoffeln\nDessert",
       "pasta-hit": "",
-      "nachtessen": "Schweinsbratwurst mit Kräutersenf und Kartoffelgemüsepfanne"
+      "nachtessen": "Penne Carbonara (mit Speck, Zwiebeln und Petersilie an Rahmsauce)"
     },
     "// Mittwoch",
     {
-      "tagesteller": "Pouletgeschnetzeltes mit Peperoni und Oliven an Tomatensauce, Blumenkohlgratin und Spinatnudeln",
+      "tagesteller": "Poulet-Oberschenkel auf Tomatensauce, Broccoliröschen und Mandelreis",
       "pasta-hit": "",
-      "nachtessen": "Gemüse-Variation \"Sweet and sour\" im Reisring"
+      "nachtessen": "Rotes-Gemüsecurry mit Kichererbsen, Süsskartoffelburger mit schwarzem Sesam"
     },
     "// Donnerstag",
     {
-      "tagesteller": "Paniertes Schweinsschnitzel, französische Erbsen und Cous Cous",
+      "tagesteller": "Schweinsbraten mit Rosmarinsauce, Ratatouillegemüse",
       "pasta-hit": "",
-      "nachtessen": "Ghackets mit Hörnli und Apfelmus"
+      "nachtessen": ""
     },
     "// Freitag",
     {
-      "tagesteller": "Wiener Kalbsrahmgulasch, Karottenscheiben und Polenta\nDessert",
+      "tagesteller": "",
       "pasta-hit": "",
-      "nachtessen": "Gebackener Käse auf Tomatencoulis mit Kartoffel-Gemüsesalat"
+      "nachtessen": ""
     },
     "// Samstag",
     {
-      "tagesteller": "Berner Schweinsgeschnetzeltes mit Speck und Champignons, grüne Bohnen und Bäckerinnenkartoffeln",
+      "tagesteller": "",
       "pasta-hit": "",
-      "nachtessen": "Spaghetti all'amatriciana (Zwiebeln, Knoblauch, Speck und Pfefferschoten an Tomatensauce)"
+      "nachtessen": ""
     },
     "// Sonntag",
     {
-      "tagesteller": "Pouletbrust mit Apfel-Calvadossauce\nKräutertomate und Pilav-Reis",
+      "tagesteller": "",
       "pasta-hit": "",
-      "nachtessen": "Churer Fleischtorte mit Gemüsemischsalat"
+      "nachtessen": ""
     }
   ]
 }
