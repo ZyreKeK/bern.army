@@ -1,47 +1,47 @@
 {
-  "week": 16,
+  "week": 17,
   "days": [
     "// Montag",
     {
-      "tagesteller": "Berner Schweins-Geschnetzletes mit Gartenerbsen und Nudeln",
+      "tagesteller": "Rindfleischwürfel nach ungarischer Art, Kohlrabi mit Schnittlauch und Spätzli-Teigwaren",
       "pasta-hit": "",
-      "nachtessen": "'Nasi Goreng' Asiatisches Reisgericht mit Poulet und Gemüse"
+      "nachtessen": "Müscheli-Gratin mit Lauch, Cherry Tomaten und Freiburger-Vacherin"
     },
     "// Dienstag",
     {
-      "tagesteller": "Lachstranche mit Safransauce, Fenchelgemüse und Petersilienkartoffeln",
+      "tagesteller": "Dorschfilet in Knusperpanade und Kräuterquark, Lauchgemüse und Pilav Reis",
       "pasta-hit": "",
-      "nachtessen": "Glarner Hörnli mit Apfelmus"
+      "nachtessen": "Heisser Beinschinken und Kartoffelsalat"
     },
     "// Mittwoch",
     {
-      "tagesteller": "Geflügelragout mit Äpfeln an Calcadossauce, Zucchetti und Trockenreis",
+      "tagesteller": "Kalbsgemüsehacksteak an rustikaler Senfsauce, Peperonata und Spiralen",
       "pasta-hit": "",
-      "nachtessen": "Rösti-Pizza mit Vorderschinken, Champignons, Tomaten und Mozzarella"
+      "nachtessen": "Gemüse Stroganoff mit Schalenkartoffel und Sour-Cream Sauce"
     },
     "// Donnerstag",
     {
-      "tagesteller": "Hackbraten mit Sauerrahmsauce, Rüebliwürfel und Maggronen",
+      "tagesteller": "Schweinsgeschnetzeltes mit Sauerrahmsauce, Krautstielgratin und Brätlerkartoffeln",
       "pasta-hit": "",
-      "nachtessen": "Gemüsecurry mit Quornstreifen auf asiatischen Nestnudeln"
+      "nachtessen": "Cheese-Burger mit Wedges-Kartoffeln und Coleslow-Salat"
     },
     "// Freitag",
     {
-      "tagesteller": "Szegediner Schweinsgulasch, grüne Bohnen und Kartoffelstock",
+      "tagesteller": "Rindfleischvogel an Balsamicosauce, Blumenkohl und Bramata-Polenta",
       "pasta-hit": "",
-      "nachtessen": "Kalbsbratwurst mit Zwiebelsauce und Spargel-Risotto"
+      "nachtessen": "Spaghetti mit Lachsrahmsauce"
     },
     "// Samstag",
     {
-      "tagesteller": "Pouletbrust und Peperonicoulis, Lauchgemüse und Spätzli Teigwaren",
+      "tagesteller": "Pouletragout mit Früchte-Currysauce, Broccoli und Basmatireis",
       "pasta-hit": "",
-      "nachtessen": "Käsekuchen mit Gemüsemischsalat"
+      "nachtessen": "Wurstweggen mit russischem Salat"
     },
     "// Sonntag",
     {
-      "tagesteller": "Rindshamburger mit Tomaten und Käse, Kohlraben und neuen Kartoffeln",
+      "tagesteller": "Schweins-Cordonbleu mit Karottenscheiben und Zöpfli-Teigwaren",
       "pasta-hit": "",
-      "nachtessen": "Tortellini gefüllt mit Ricotta Spinat an Cinque Pi Sauce"
+      "nachtessen": "Gefüllte Tortelloni mit Cinque Pi Sauce"
     }
   ]
 }
