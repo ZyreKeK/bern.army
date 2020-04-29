@@ -1,47 +1,47 @@
 {
-  "week": 17,
+  "week": 18,
   "days": [
     "// Montag",
     {
-      "tagesteller": "Rindfleischwürfel nach ungarischer Art, Kohlrabi mit Schnittlauch und Spätzli-Teigwaren",
+      "tagesteller": "Schweinsbraten mit Zucchetti und Würfelkartoffeln",
       "pasta-hit": "",
-      "nachtessen": "Müscheli-Gratin mit Lauch, Cherry Tomaten und Freiburger-Vacherin"
+      "nachtessen": "Conchiglie Bündner Art"
     },
     "// Dienstag",
     {
-      "tagesteller": "Dorschfilet in Knusperpanade und Kräuterquark, Lauchgemüse und Pilav Reis",
+      "tagesteller": "Kap-Seehecht mit Morgenrotsauce, Blattspinat und Trockenreis",
       "pasta-hit": "",
-      "nachtessen": "Heisser Beinschinken und Kartoffelsalat"
+      "nachtessen": "Kalbsbratwurst an Zwiebelsauce und Kartoffelgemüsepfanne"
     },
     "// Mittwoch",
     {
-      "tagesteller": "Kalbsgemüsehacksteak an rustikaler Senfsauce, Peperonata und Spiralen",
+      "tagesteller": "Rindgeschnetzeltes nach Stroganoff, Rüeblistengel und Kartoffelstock",
       "pasta-hit": "",
-      "nachtessen": "Gemüse Stroganoff mit Schalenkartoffel und Sour-Cream Sauce"
+      "nachtessen": "Rösti-Galetten auf Belugalinsengemüse und Zaziki Dipp-Sauce"
     },
     "// Donnerstag",
     {
-      "tagesteller": "Schweinsgeschnetzeltes mit Sauerrahmsauce, Krautstielgratin und Brätlerkartoffeln",
+      "tagesteller": "Poulet Cordon-Bleu mit Blumenkohl und Tomaten-Risotto",
       "pasta-hit": "",
-      "nachtessen": "Cheese-Burger mit Wedges-Kartoffeln und Coleslow-Salat"
+      "nachtessen": "Penne Rigate mit Gorgonzolasauce"
     },
     "// Freitag",
     {
-      "tagesteller": "Rindfleischvogel an Balsamicosauce, Blumenkohl und Bramata-Polenta",
+      "tagesteller": "Schweinssaltimbocca mit Maderiasauce, Ratatouille und Spätzli-Teigwaren",
       "pasta-hit": "",
-      "nachtessen": "Spaghetti mit Lachsrahmsauce"
+      "nachtessen": ""
     },
     "// Samstag",
     {
-      "tagesteller": "Pouletragout mit Früchte-Currysauce, Broccoli und Basmatireis",
+      "tagesteller": "",
       "pasta-hit": "",
-      "nachtessen": "Wurstweggen mit russischem Salat"
+      "nachtessen": ""
     },
     "// Sonntag",
     {
-      "tagesteller": "Schweins-Cordonbleu mit Karottenscheiben und Zöpfli-Teigwaren",
+      "tagesteller": "",
       "pasta-hit": "",
-      "nachtessen": "Gefüllte Tortelloni mit Cinque Pi Sauce"
+      "nachtessen": ""
     }
   ]
 }
