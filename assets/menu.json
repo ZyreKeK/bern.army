@@ -1,35 +1,35 @@
 {
-  "week": 18,
+  "week": 19,
   "days": [
     "// Montag",
     {
-      "tagesteller": "Schweinsbraten mit Zucchetti und Würfelkartoffeln",
+      "tagesteller": "Schweinsragout mit Tomaten, Broccoli und Älplerhörnli",
       "pasta-hit": "",
-      "nachtessen": "Conchiglie Bündner Art"
+      "nachtessen": "Hausgemachte Lasagbe mit Rindshackfleisch"
     },
     "// Dienstag",
     {
-      "tagesteller": "Kap-Seehecht mit Morgenrotsauce, Blattspinat und Trockenreis",
+      "tagesteller": "Seelachs in Knusperpanade mit Kräuterquarksauce, Blattspinat und Eblysotto",
       "pasta-hit": "",
-      "nachtessen": "Kalbsbratwurst an Zwiebelsauce und Kartoffelgemüsepfanne"
+      "nachtessen": "Spätzli-Pfanne mit Gemüsewürfel und Chamignons an Sauerrahmsauce"
     },
     "// Mittwoch",
     {
-      "tagesteller": "Rindgeschnetzeltes nach Stroganoff, Rüeblistengel und Kartoffelstock",
+      "tagesteller": "Schweinsgeschnetzeltes nach Walliser Art, Blumenkohl und Bratkartoffeln",
       "pasta-hit": "",
-      "nachtessen": "Rösti-Galetten auf Belugalinsengemüse und Zaziki Dipp-Sauce"
+      "nachtessen": "Spaghetti Carbonara (Rahmsauce mit Speck, Zwiebeln und Sbrinz)"
     },
     "// Donnerstag",
     {
-      "tagesteller": "Poulet Cordon-Bleu mit Blumenkohl und Tomaten-Risotto",
+      "tagesteller": "Pouletoberschenkel auf Tomaten-Peperonicoulis, Zucchettiwürfel mit Nudeln",
       "pasta-hit": "",
-      "nachtessen": "Penne Rigate mit Gorgonzolasauce"
+      "nachtessen": "Gemüse-Variation "Sweet and Sour"" im Basmati-Reisring"
     },
     "// Freitag",
     {
-      "tagesteller": "Schweinssaltimbocca mit Maderiasauce, Ratatouille und Spätzli-Teigwaren",
+      "tagesteller": "Rindfleischwürfel nach ungarischer Art, grühne Bohnen und Kartoffelstock",
       "pasta-hit": "",
-      "nachtessen": ""
+      "nachtessen": "Gebackener Käse im Knusperteig, dazu bunter Teigwarensalat"
     },
     "// Samstag",
     {
